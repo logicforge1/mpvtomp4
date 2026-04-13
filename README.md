@@ -101,7 +101,6 @@ with:
 ## 🧠 Future Improvements
 
 * ⏱️ Estimated time remaining (ETA)
-* 🌙 Dark mode
 * 📜 FFmpeg log output
 * 📦 Export as .exe
 * 🎛️ Codec selection in GUI
